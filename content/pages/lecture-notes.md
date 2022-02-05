@@ -8,30 +8,243 @@ These slides can also be found in the [Video Lectures]({{< baseurl >}}/video_gal
 
 [All lecture slides as one file (PDF - 5.7MB)]({{< baseurl >}}/resources/mit6_041f10_lec_slides)
 
-| LEC # | LECTURE NOTES |
-| --- | --- |
-| 1 | [Probability Models and Axioms (PDF)]({{< baseurl >}}/resources/mit6_041f10_l01) |
-| 2 | [Conditioning and Bayes' Rule (PDF)]({{< baseurl >}}/resources/mit6_041f10_l02) |
-| 3 | [Independence (PDF)]({{< baseurl >}}/resources/mit6_041f10_l03) |
-| 4 | [Counting (PDF)]({{< baseurl >}}/resources/mit6_041f10_l04) |
-| 5 | [Discrete Random Variables; Probability Mass Functions; Expectations (PDF)]({{< baseurl >}}/resources/mit6_041f10_l05) |
-| 6 | [Discrete Random Variable Examples; Joint PMFs (PDF)]({{< baseurl >}}/resources/mit6_041f10_l06) |
-| 7 | [Multiple Discrete Random Variables: Expectations, Conditioning, Independence (PDF)]({{< baseurl >}}/resources/mit6_041f10_l07) |
-| 8 | [Continuous Random Variables (PDF)]({{< baseurl >}}/resources/mit6_041f10_l08) |
-| 9 | [Multiple Continuous Random Variables (PDF)]({{< baseurl >}}/resources/mit6_041f10_l09) |
-| 10 | [Continuous Bayes' Rule; Derived Distributions (PDF)]({{< baseurl >}}/resources/mit6_041f10_l10) |
-| 11 | [Derived Distributions; Convolution; Covariance and Correlation (PDF)]({{< baseurl >}}/resources/mit6_041f10_l11) |
-| 12 | [Iterated Expectations; Sum of a Random Number of Random Variables (PDF)]({{< baseurl >}}/resources/mit6_041f10_l12) |
-| 13 | [Bernoulli Process (PDF)]({{< baseurl >}}/resources/mit6_041f10_l13) |
-| 14 | [Poisson Process - I (PDF)]({{< baseurl >}}/resources/mit6_041f10_l14) |
-| 15 | [Poisson Process - II (PDF)]({{< baseurl >}}/resources/mit6_041f10_l15) |
-| 16 | [Markov Chains - I (PDF)]({{< baseurl >}}/resources/mit6_041f10_l16) |
-| 17 | [Markov Chains - II (PDF)]({{< baseurl >}}/resources/mit6_041f10_l17) |
-| 18 | [Markov Chains - III (PDF)]({{< baseurl >}}/resources/mit6_041f10_l18) |
-| 19 | [Weak Law of Large Numbers (PDF)]({{< baseurl >}}/resources/mit6_041f10_l19) |
-| 20 | [Central Limit Theorem (PDF)]({{< baseurl >}}/resources/mit6_041f10_l20) |
-| 21 | [Bayesian Statistical Inference - I (PDF)]({{< baseurl >}}/resources/mit6_041f10_l21) |
-| 22 | [Bayesian Statistical Inference - II (PDF)]({{< baseurl >}}/resources/mit6_041f10_l22) |
-| 23 | [Classical Statistical Inference - I (PDF)]({{< baseurl >}}/resources/mit6_041f10_l23) |
-| 24 | [Classical Inference - II (PDF)]({{< baseurl >}}/resources/mit6_041f10_l24) |
-| 25 | [Classical Inference - III; Course Overview (PDF)]({{< baseurl >}}/resources/mit6_041f10_l25)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[Probability Models and Axioms (PDF)]({{< baseurl >}}/resources/mit6_041f10_l01)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Conditioning and Bayes' Rule (PDF)]({{< baseurl >}}/resources/mit6_041f10_l02)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Independence (PDF)]({{< baseurl >}}/resources/mit6_041f10_l03)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[Counting (PDF)]({{< baseurl >}}/resources/mit6_041f10_l04)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+[Discrete Random Variables; Probability Mass Functions; Expectations (PDF)]({{< baseurl >}}/resources/mit6_041f10_l05)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+[Discrete Random Variable Examples; Joint PMFs (PDF)]({{< baseurl >}}/resources/mit6_041f10_l06)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+[Multiple Discrete Random Variables: Expectations, Conditioning, Independence (PDF)]({{< baseurl >}}/resources/mit6_041f10_l07)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+[Continuous Random Variables (PDF)]({{< baseurl >}}/resources/mit6_041f10_l08)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+[Multiple Continuous Random Variables (PDF)]({{< baseurl >}}/resources/mit6_041f10_l09)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+[Continuous Bayes' Rule; Derived Distributions (PDF)]({{< baseurl >}}/resources/mit6_041f10_l10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+[Derived Distributions; Convolution; Covariance and Correlation (PDF)]({{< baseurl >}}/resources/mit6_041f10_l11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+[Iterated Expectations; Sum of a Random Number of Random Variables (PDF)]({{< baseurl >}}/resources/mit6_041f10_l12)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+[Bernoulli Process (PDF)]({{< baseurl >}}/resources/mit6_041f10_l13)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+[Poisson Process - I (PDF)]({{< baseurl >}}/resources/mit6_041f10_l14)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+[Poisson Process - II (PDF)]({{< baseurl >}}/resources/mit6_041f10_l15)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+[Markov Chains - I (PDF)]({{< baseurl >}}/resources/mit6_041f10_l16)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+[Markov Chains - II (PDF)]({{< baseurl >}}/resources/mit6_041f10_l17)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+[Markov Chains - III (PDF)]({{< baseurl >}}/resources/mit6_041f10_l18)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+[Weak Law of Large Numbers (PDF)]({{< baseurl >}}/resources/mit6_041f10_l19)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+[Central Limit Theorem (PDF)]({{< baseurl >}}/resources/mit6_041f10_l20)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+[Bayesian Statistical Inference - I (PDF)]({{< baseurl >}}/resources/mit6_041f10_l21)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+[Bayesian Statistical Inference - II (PDF)]({{< baseurl >}}/resources/mit6_041f10_l22)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+[Classical Statistical Inference - I (PDF)]({{< baseurl >}}/resources/mit6_041f10_l23)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+[Classical Inference - II (PDF)]({{< baseurl >}}/resources/mit6_041f10_l24)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+[Classical Inference - III; Course Overview (PDF)]({{< baseurl >}}/resources/mit6_041f10_l25)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
